@@ -17,6 +17,18 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          My First <code>React Code</code> to the world. Artgardennft.com
+        </p>
+        <a
+          className="App-link"
+          href="https://artgardennft.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+
       </header>
     </div>
   );
